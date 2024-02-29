@@ -1,0 +1,107 @@
+
+
+#form{
+    background-color: white;
+    margin: 5%;
+    height: 1500px;
+}
+button{
+    border:none;
+    background-color: blue;
+    color: white;
+    padding: 2px;
+    border-radius: 10%;
+    margin: 20px;
+
+}
+.move{
+    position: relative;
+    top: -16px;
+    right: -500px;
+}
+.wall{
+    display: flex;
+}
+.photos{
+    display: flex;
+
+}
+.pic2{
+    display: flex;
+}
+
+.pics{
+    display: flex;
+}
+.why{
+    display: flex;
+}
+h1{
+    text-align: justify;
+}
+.snaap{
+    display: flex;
+    border: 2px;
+
+}
+.weekend{
+    background-color: palevioletred;
+    border: 2px;
+    padding: 5%;
+    margin: 20px;
+}
+.tree{
+    display: flex;
+}
+.spy{
+    display: flex;
+}
+.yellow{
+    display: flex;
+}
+.char{
+    display: flex;
+}
+.last{
+    display: flex;
+}
+.wall{
+    display: flex;
+}
+h4{
+    background-color: rgb(211, 79, 101);
+}
+.bag{
+    display: flex;
+}
+.one{
+    display: flex;
+}
+h3{
+    background-color: white;
+    content: normal;
+    
+}
+.last{
+    display: flex;
+}
+
+.column{
+    float: left;
+    width: 27%;
+    padding: 10px;
+    height: 250px;
+}
+.divide{
+    display: flex;
+}
+.sufs{
+border-radius: 10%;
+
+}
+.con{
+    display: flex;
+}
+h4{
+    content: normal;
+}
